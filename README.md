@@ -6,6 +6,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/johndoetwitter?style=social)](https://twitter.com/johndoetwitter)
 
 I'm a Full Stack Developer passionate about building web applications and exploring new technologies. Welcome to my GitHub profile!
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAlMaksud&" alt="AbdullahAlMaksud" /></p>
+<br>
 
 ## 🚀 About Me
 
