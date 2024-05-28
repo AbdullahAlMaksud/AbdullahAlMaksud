@@ -39,8 +39,9 @@ I'm a passionate software enthusiast currently diving deep into the world of Ful
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=compact)](https://github.com/abdullahalmaksud)
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAlMaksud&" alt="AbdullahAlMaksud" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide=stars" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide=stars" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAlMaksud&" alt="AbdullahAlMaksud" /></p>
 
 ## 🌱 Featured Projects
 
