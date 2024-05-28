@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/abdullahalmaksud?label=Follow&style=social)](https://github.com/abdullahalmaksud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/abdullahalmaksud/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/abdullahalmaksud?style=social)](https://twitter.com/abdullahalmaksud)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abdullahalmaksud?style=social)](https://twitter.com/aamaksud)
 
 I'm a passionate software enthusiast currently diving deep into the world of Full Stack Development, with a focus on frontend technologies. Welcome to my GitHub profile!
 
