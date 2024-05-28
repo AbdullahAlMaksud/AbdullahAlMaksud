@@ -88,6 +88,7 @@ Feel free to explore my projects and connect with me!
 ## 📫 Let's Connect
 
 - LinkedIn: [Abdullah Al Maksud](https://www.linkedin.com/in/abdullahalmaksud/)
+- Facebook: [Abdullah Al Maksud](https://www.facebook.com/in/maksud51/)
 - Twitter: [Abdullah Al Maksud](https://twitter.com/aamaksud)
 
 Let's build something awesome together!
