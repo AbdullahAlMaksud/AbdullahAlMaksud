@@ -1,3 +1,5 @@
+[![GitHub followers](https://img.shields.io/github/followers/abdullahalmaksud?label=Follow&style=social)](https://i.postimg.cc/X7y4KgRT/programming-code-coding-or-hacker-sign-programming-code-icon-made-with-binary-code-in-wireframe-hand.jpg)
+
 # Hi there! 👋 I'm Abdullah Al Maksud
 
 [![GitHub followers](https://img.shields.io/github/followers/abdullahalmaksud?label=Follow&style=social)](https://github.com/abdullahalmaksud)
