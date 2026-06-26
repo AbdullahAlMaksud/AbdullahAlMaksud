@@ -1,76 +1,63 @@
 # Abdullah Al Maksud
 
-**Frontend Engineer · AI-Powered Web Apps · Next.js / TypeScript / Tailwind CSS**
+**React Native Developer · Frontend Engineer · AI Integrations**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalmaksud/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aamaksud)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalmaksud/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/Slack-Message-4A154B?style=flat-square&logo=slack&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
-I build focused, production-ready web applications — mostly AI-integrated tools and utility apps using the modern React ecosystem. My background is in physics (M.Sc., Jahangirnagar University), which means I approach engineering problems with a preference for systems thinking and clean structure over surface-level polish.
+## About
 
-Currently deepening my expertise in **Next.js 14/15**, **TypeScript**, and **Claude / Gemini API** integration.
+I build mobile and web applications with a focus on quality, clarity, and real-world utility.
 
----
+Professionally, I've worked on large-scale EdTech and booking platforms since 2025 — handling everything from feature development and localization to authentication architecture and app store deployment. I understand what it means to ship something that real users depend on.
 
-## What I'm Working On
+On the web side, I'm deeply invested in the modern frontend ecosystem. Next.js, TypeScript, Tailwind, and shadcn/ui are my daily tools — and I've taken multiple projects from an empty repository to a live, production-deployed product. I care about the details: component structure, type safety, performance, and interfaces that feel intentional.
 
-| Project | Description | Stack |
-|---|---|---|
-| **Subscription Graveyard** | AI-powered tool that audits your subscriptions and gives keep/cut verdicts | Next.js 14, Claude API |
-| **Bengali Meal Planner** | Multi-day meal planning with smart shopping list generation in Bengali | Next.js, Gemini API |
-| **Impulse Buy Checker** | Helps users make deliberate purchase decisions with AI reasoning | Next.js, Claude API |
+UI quality is something I hold myself to. I've done design work when it was needed, and I know the difference between something that works and something that feels right.
+
+Currently, I'm focused on building AI-powered tools that solve genuine problems — not demos, but products. I treat AI as a collaborator in my workflow: I use it to accelerate, then I review, refine, and own every line.
 
 ---
 
-## Technical Focus
+## Tech Stack
 
-```
-Next.js · TypeScript · Tailwind CSS · React
-Claude API · Gemini API · AI Integration
-Node.js · REST APIs · Git
-```
+**Mobile**
+`React Native` `Expo` `NativeWind` `i18next` `Better Auth` `iOS & Android Deployment`
 
-**Currently learning:** Advanced API patterns, full-stack architecture, agentic UI flows
+**Web & Frontend**
+`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Supabase` `React`
+
+**Backend**
+`Node.js` `Express.js` `Hono` `MongoDB`
+
+**AI & Tools**
+`Gemini API` `Claude API` `Git` `VS Code`
 
 ---
 
-## Selected Projects
+## Currently Working On
 
-### [CanvasFlow](#)
-Infinite canvas project manager with Excalidraw-style drawing tools, drag-and-drop task management, pan/zoom, and SVG logo animation. Built with Next.js and TypeScript.
-
-### [Next.js Project Rules Generator](#)
-Developer tool for visually configuring coding conventions and exporting Markdown for AI agents. Features a VS Code-style folder tree editor, npm package search, and a six-theme design system.
-
-### [Code Review Bot](#)
-Monaco Editor + Gemini 2.5 Flash integration for structured AI code reviews — severity cards, issue scoring, and JSON-structured output.
-
-### [Adhan Reminder Desktop App](#)
-GTK3 Ubuntu desktop application (`.deb`) fetching prayer times from the aladhan.com API, with full-screen overlay and per-prayer configuration. Built in Python.
+Building a set of AI-powered web tools using the Gemini API — each one designed around a specific, real-world problem. Full-stack, production-deployed, and built from scratch.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=default" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
 
-## Background
+M.Sc. in Physics — Jahangirnagar University
 
-- M.Sc. in Physics — Jahangirnagar University
-- Self-taught frontend engineer with a focus on shipping real, usable products
-- Interested in the intersection of AI APIs and practical everyday tooling
-
----
-
-*Open to collaboration on meaningful projects. Feel free to reach out.*
-
-**LinkedIn:** [abdullahalmaksud](https://www.linkedin.com/in/abdullahalmaksud/) · **Twitter:** [@aamaksud](https://twitter.com/aamaksud) · **GitHub:** [abdullahalmaksud](https://github.com/abdullahalmaksud)
+*Open to meaningful work and collaboration.*
