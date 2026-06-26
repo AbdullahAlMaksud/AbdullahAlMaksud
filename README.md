@@ -9,10 +9,10 @@
 
 ---
 
-<h2 align="center">
-  Assalamu Alaikum 👋<br/>
-  <sub>I'm Abdullah Al Maksud</sub>
-</h2>
+<h3 align="center" style="font-size: 1rem; font-weight: bold; text-align: center; line-height: 1.0;">
+  Assalamu Alaikum 👋
+</h3>
+  <h2 align="center" style="font-size: 2rem; font-weight: light; text-align: center; line-height: 1.0;">I'm Abdullah Al Maksud</h2>
 
 <!-- Dark/Light mode profile photo -->
 <p align="center">
