@@ -25,6 +25,26 @@ Currently, I'm focused on building AI-powered tools that solve genuine problems 
 
 ---
 
+## At a Glance
+
+- **React Native Developer** — Professional experience on large-scale mobile products (EdTech & Booking)
+- **Frontend Engineer** — Next.js, TypeScript, Tailwind CSS; from repo init to production deploy
+- **AI Explorer** — Building real-utility tools with Gemini & Claude APIs
+- **Architecture-minded** — Reusable components, clean code, best practices first
+- **UI-obsessed** — Design-aware developer who cares deeply about what users actually see and feel
+- **Physics background** — M.Sc. graduate; trained to think in systems, not just syntax
+- **Goal** — Become a high-impact engineer who ships things that matter
+
+---
+
+## Current Focus
+
+- AI Integration — Meaningful AI features in real user-facing products
+- Backend — Node.js, Express.js, Hono — deepening server-side fundamentals
+- Full Stack — Next.js + Supabase + REST APIs + MongoDB
+
+---
+
 ## Tech Stack
 
 **Mobile**
@@ -41,23 +61,35 @@ Currently, I'm focused on building AI-powered tools that solve genuine problems 
 
 ---
 
-## Currently Working On
+## Education
 
-Building a set of AI-powered web tools using the Gemini API — each one designed around a specific, real-world problem. Full-stack, production-deployed, and built from scratch.
+**Master of Science in Physics**
+Jahangirnagar University, Savar, Dhaka
+*A foundation in analytical thinking, mathematical modeling, and approaching complex problems from first principles — habits that translate directly into how I architect and debug software.*
+
+**Self-taught Software Engineer**
+*Parallel track alongside academic study — began with web fundamentals, progressed through the React ecosystem, and entered professional mobile development. Every project, from first commit to deployed product, has been a deliberate step in this direction.*
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=compact&hide_border=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmaksud&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=donut&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalmaksud&theme=default" />
 </p>
 
 ---
 
-M.Sc. in Physics — Jahangirnagar University
-
-*Open to meaningful work and collaboration.*
+*Open to meaningful work and collaboration. Reach out through any of the links above.*
