@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/cover-light.png">
-  <img src="./assets/cover-dark.png" width="100%" height="280" alt="Abdullah Al Maksud" />
+  <img src="./assets/cover-dark.png" width="100%"  style="border-radius: 20px;" height="280" alt="Abdullah Al Maksud" />
 </picture>
 
 <br/>
