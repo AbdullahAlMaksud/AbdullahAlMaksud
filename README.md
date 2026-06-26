@@ -136,13 +136,16 @@ _Running parallel to my academic years — starting from web fundamentals, progr
 
 ## Contribution Playground
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-  </picture>
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/snake-output/snake.svg" alt="Snake animation" />
+
 
 ---
 
