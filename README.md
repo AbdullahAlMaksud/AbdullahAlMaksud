@@ -9,9 +9,10 @@
 
 ---
 
-<h2 align="center">Assalamu Alaikum 👋</h2>
-
-<br/>
+<h2 align="center">
+  Assalamu Alaikum 👋<br/>
+  <sub>I'm Abdullah Al Maksud</sub>
+</h2>
 
 <!-- Dark/Light mode profile photo -->
 <p align="center">
@@ -22,10 +23,14 @@
   </picture>
 </p>
 
-<h2 align="center">I'm Abdullah Al Maksud</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=6E40C9&center=true&vCenter=true&width=860&height=80&lines=React+Native+Developer;Frontend+Engineer+with+a+product+eye;I+build+mobile%2C+web+%26+AI-powered+tools;Clean+UI.+Clean+code.+Real+products." alt="Animated intro typing" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=6E40C9&center=true&vCenter=true&width=760&height=70&lines=React+Native+Developer;Frontend+Engineer+with+a+product+eye;Building+mobile%2C+web+%26+AI-powered+tools" alt="Animated intro typing" />
+  <img src="https://komarev.com/ghpvc/?username=abdullahalmaksud&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/abdullahalmaksud?label=Followers&style=for-the-badge&color=2ea44f" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%2B%20Web%20%2B%20AI-f5c542?style=for-the-badge" alt="Current focus" />
 </p>
 
 <br/>
@@ -53,6 +58,14 @@ Oh, and I studied Physics — Honours from National University, Bangladesh, foll
 - 🎨 **UI-obsessed** — Design-aware developer who cares deeply about what users actually see and feel
 - 🔬 **Physics background** — B.Sc. (Hons) & M.Sc. graduate; trained to think in systems, not just syntax
 - 🎯 **Goal** — Become a high-impact engineer who ships things that matter
+
+---
+
+## I Code With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,supabase,git,github,vscode&perline=6" alt="Tech stack icons" />
+</p>
 
 ---
 
@@ -115,6 +128,22 @@ _Running parallel to my academic years — starting from web fundamentals, progr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalmaksud&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalmaksud&theme=tokyo-night&hide_border=true&radius=8&area=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+## Contribution Playground
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/AbdullahAlMaksud/AbdullahAlMaksud/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+  </picture>
+</p>
+
 ---
 
 ## Let's Connect
@@ -130,5 +159,5 @@ _Running parallel to my academic years — starting from web fundamentals, progr
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=6E40C9&center=true&vCenter=true&width=560&height=45&lines=Thanks+for+stopping+by+%F0%9F%99%8C;Let's+build+something+meaningful+together." alt="Animated closing typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=110&section=footer&text=Thanks%20for%20stopping%20by&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Animated footer wave" />
 </p>
