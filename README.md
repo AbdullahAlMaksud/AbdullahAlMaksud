@@ -1,10 +1,8 @@
-
-
 <!-- Dark/Light mode cover -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/cover-light.png">
-  <img src="./assets/cover-dark.png" width="100%" alt="Abdullah Al Maksud" />
+  <img src="./assets/cover-dark.png" width="100%" height="280" alt="Abdullah Al Maksud" />
 </picture>
 
 <br/>
@@ -27,14 +25,14 @@
 <h2 align="center">I'm Abdullah Al Maksud</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6E40C9&center=true&vCenter=true&width=600&lines=Great!+You've+reached+my+profile+%F0%9F%99%8C;Let+me+welcome+you+with+all+my+heart.;Let's+get+to+know+each+other..." alt="Welcome typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=6E40C9&center=true&vCenter=true&width=760&height=70&lines=React+Native+Developer;Frontend+Engineer+with+a+product+eye;Building+mobile%2C+web+%26+AI-powered+tools" alt="Animated intro typing" />
 </p>
 
 <br/>
 
 ---
 
-## So... who am I?
+## Engineer, Builder, Systems Thinker
 
 I'm a React Native developer with professional experience since 2025, working on large-scale mobile applications in the EdTech and booking space — the kind that real users rely on every day. I've been part of the full journey: building features, handling localization, setting up authentication, and taking apps through the store release process.
 
@@ -91,22 +89,22 @@ Oh, and I studied Physics — Honours from National University, Bangladesh, foll
 
 **Master of Science in Physics**
 Jahangirnagar University, Savar, Dhaka
-*Sharpened my ability to model complex systems, think analytically under uncertainty, and approach problems from first principles — all of which quietly inform how I write and structure software.*
+_Sharpened my ability to model complex systems, think analytically under uncertainty, and approach problems from first principles — all of which quietly inform how I write and structure software._
 
 **Bachelor of Science (Honours) in Physics**
 National University, Bangladesh
-*Where the habit of asking "why does this actually work?" began.*
+_Where the habit of asking "why does this actually work?" began._
 
 **Self-taught Software Engineer**
-*Running parallel to my academic years — starting from web fundamentals, progressing through the React ecosystem, and stepping into professional mobile development. Every project has been a deliberate experiment.*
+_Running parallel to my academic years — starting from web fundamentals, progressing through the React ecosystem, and stepping into professional mobile development. Every project has been a deliberate experiment._
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=donut&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="165"/>
 </p>
 
 <p align="center">
@@ -132,5 +130,5 @@ National University, Bangladesh
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=6E40C9&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%99%8C;Let's+build+something+meaningful+together." alt="Closing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=6E40C9&center=true&vCenter=true&width=560&height=45&lines=Thanks+for+stopping+by+%F0%9F%99%8C;Let's+build+something+meaningful+together." alt="Animated closing typing" />
 </p>
