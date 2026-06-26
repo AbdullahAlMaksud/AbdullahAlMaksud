@@ -1,18 +1,40 @@
+
+
+<!-- Dark/Light mode cover -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cover-light.png">
+  <img src="./assets/cover-dark.png" width="100%" alt="Abdullah Al Maksud" />
+</picture>
+
+<br/>
+
+---
+
+<h2 align="center">Assalamu Alaikum 👋</h2>
+
+<br/>
+
+<!-- Dark/Light mode profile photo -->
 <p align="center">
-  <img src="./assets/cover.png" width="100%" alt="Abdullah Al Maksud — Cover" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.png">
+    <img src="./assets/profile-dark.png" width="180" alt="Abdullah Al Maksud" />
+  </picture>
+</p>
+
+<h2 align="center">I'm Abdullah Al Maksud</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6E40C9&center=true&vCenter=true&width=600&lines=Great!+You've+reached+my+profile+%F0%9F%99%8C;Let+me+welcome+you+with+all+my+heart.;Let's+get+to+know+each+other..." alt="Welcome typing" />
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum%2C+welcome+to+my+profile+%F0%9F%91%8B;I'm+Abdullah+%E2%80%94+let's+build+something+great." alt="Typing SVG" />
-</p>
-
 ---
 
-<img align="right" src="https://github.com/user-attachments/assets/186083b1-ae36-48e9-adc5-45c2f265e971" width="120" style="border-radius:50%" alt="Abdullah Al Maksud"/>
-
-## Hey, I'm Abdullah 👋
+## So... who am I?
 
 I'm a React Native developer with professional experience since 2025, working on large-scale mobile applications in the EdTech and booking space — the kind that real users rely on every day. I've been part of the full journey: building features, handling localization, setting up authentication, and taking apps through the store release process.
 
@@ -21,8 +43,6 @@ Beyond mobile, I genuinely enjoy the frontend world. Next.js, TypeScript, Tailwi
 Lately, I've been exploring how AI APIs can be woven into products in ways that actually make a difference. I've shipped a few tools using Gemini and Claude APIs, and I'm still learning every day.
 
 Oh, and I studied Physics — Honours from National University, Bangladesh, followed by an M.Sc. from Jahangirnagar University. That background taught me how to think through problems before jumping to solutions, which turns out to be pretty useful in software too.
-
-<br clear="right"/>
 
 ---
 
@@ -33,7 +53,7 @@ Oh, and I studied Physics — Honours from National University, Bangladesh, foll
 - 🤖 **AI Explorer** — Building real-utility tools with Gemini & Claude APIs
 - 🧩 **Architecture-minded** — Reusable components, clean code, best practices first
 - 🎨 **UI-obsessed** — Design-aware developer who cares deeply about what users actually see and feel
-- 🔬 **Physics background** — B.Sc. (Hons) from National University & M.Sc. from Jahangirnagar University; trained to think in systems, not just syntax
+- 🔬 **Physics background** — B.Sc. (Hons) & M.Sc. graduate; trained to think in systems, not just syntax
 - 🎯 **Goal** — Become a high-impact engineer who ships things that matter
 
 ---
@@ -78,7 +98,7 @@ National University, Bangladesh
 *Where the habit of asking "why does this actually work?" began.*
 
 **Self-taught Software Engineer**
-*Running parallel to my academic years — starting from HTML and CSS curiosity, growing through the React ecosystem, and eventually stepping into professional mobile development. Every project has been a deliberate experiment.*
+*Running parallel to my academic years — starting from web fundamentals, progressing through the React ecosystem, and stepping into professional mobile development. Every project has been a deliberate experiment.*
 
 ---
 
