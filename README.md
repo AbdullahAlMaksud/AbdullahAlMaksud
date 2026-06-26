@@ -1,101 +1,76 @@
-# 👋 Hi there! I'm Abdullah Al Maksud
+# Abdullah Al Maksud
 
-[![GitHub followers](https://img.shields.io/github/followers/abdullahalmaksud?label=Follow\&style=social)](https://github.com/abdullahalmaksud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat\&logo=linkedin\&logoColor=white\&color=0077B5)](https://www.linkedin.com/in/abdullahalmaksud/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aamaksud?style=social)](https://twitter.com/aamaksud)
+**Frontend Engineer · AI-Powered Web Apps · Next.js / TypeScript / Tailwind CSS**
 
----
-
-## 🚀 About Me
-
-* 📱 **React Native Developer** (Primary Focus)
-* 🤖 Exploring **AI & Modern Technologies**
-* 🎓 Master's in Physics @ Jahangirnagar University
-* 💡 Passionate about building scalable & user-friendly apps
-* 🎯 Goal: Become a high-impact Software Engineer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalmaksud/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aamaksud)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 
 ---
 
-## 🧠 Current Focus
+I build focused, production-ready web applications — mostly AI-integrated tools and utility apps using the modern React ecosystem. My background is in physics (M.Sc., Jahangirnagar University), which means I approach engineering problems with a preference for systems thinking and clean structure over surface-level polish.
 
-* ⚛️ React Native (Expo, Performance, UI Systems)
-* 🌐 Full Stack (Next.js + API + DB)
-* 🤖 AI Integration (AI-powered features in apps)
-* 🧩 Reusable & scalable component architecture
+Currently deepening my expertise in **Next.js 14/15**, **TypeScript**, and **Claude / Gemini API** integration.
 
 ---
 
-## 🛠 Tech Stack
+## What I'm Working On
 
-### 📱 Frontend & Mobile
-
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square\&logo=next.js)
-
-### 🎨 Styling
-
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-207196?style=flat-square\&logo=tailwind-css)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3)
-
-### ⚙️ Backend & DB
-
-![Node.js](https://img.shields.io/badge/-Node.js-330000?style=flat-square\&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square\&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000044?style=flat-square\&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-440011?style=flat-square\&logo=firebase)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git)
-![VS Code](https://img.shields.io/badge/-VS Code-555555?style=flat-square&logo=visual-studio-code)
+| Project | Description | Stack |
+|---|---|---|
+| **Subscription Graveyard** | AI-powered tool that audits your subscriptions and gives keep/cut verdicts | Next.js 14, Claude API |
+| **Bengali Meal Planner** | Multi-day meal planning with smart shopping list generation in Bengali | Next.js, Gemini API |
+| **Impulse Buy Checker** | Helps users make deliberate purchase decisions with AI reasoning | Next.js, Claude API |
 
 ---
 
-## 📊 Skill Overview (Visual)
+## Technical Focus
 
-```mermaid
-pie title Skill Distribution
-    "React Native" : 40
-    "React / Next.js" : 25
-    "Backend (Node.js)" : 15
-    "UI/UX & Styling" : 10
-    "AI & New Tech" : 10
+```
+Next.js · TypeScript · Tailwind CSS · React
+Claude API · Gemini API · AI Integration
+Node.js · REST APIs · Git
 ```
 
+**Currently learning:** Advanced API patterns, full-stack architecture, agentic UI flows
+
 ---
 
-## 📈 GitHub Stats
+## Selected Projects
+
+### [CanvasFlow](#)
+Infinite canvas project manager with Excalidraw-style drawing tools, drag-and-drop task management, pan/zoom, and SVG logo animation. Built with Next.js and TypeScript.
+
+### [Next.js Project Rules Generator](#)
+Developer tool for visually configuring coding conventions and exporting Markdown for AI agents. Features a VS Code-style folder tree editor, npm package search, and a six-theme design system.
+
+### [Code Review Bot](#)
+Monaco Editor + Gemini 2.5 Flash integration for structured AI code reviews — severity cards, issue scoring, and JSON-structured output.
+
+### [Adhan Reminder Desktop App](#)
+GTK3 Ubuntu desktop application (`.deb`) fetching prayer times from the aladhan.com API, with full-screen overlay and per-prayer configuration. Built in Python.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAlMaksud" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 What I'm Building
+## Background
 
-* 📱 Mobile Apps with **React Native (Expo)**
-* 🧠 AI-powered features & integrations
-* 🌍 Multilingual & scalable applications
-* ⚡ Clean UI + performance-focused apps
-
----
-
-## 🤝 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/abdullahalmaksud/
-* 🐦 Twitter: https://twitter.com/aamaksud
-* 💻 GitHub: https://github.com/abdullahalmaksud
+- M.Sc. in Physics — Jahangirnagar University
+- Self-taught frontend engineer with a focus on shipping real, usable products
+- Interested in the intersection of AI APIs and practical everyday tooling
 
 ---
 
-⭐ *"Building smart apps with clean UI and powerful logic."*
+*Open to collaboration on meaningful projects. Feel free to reach out.*
+
+**LinkedIn:** [abdullahalmaksud](https://www.linkedin.com/in/abdullahalmaksud/) · **Twitter:** [@aamaksud](https://twitter.com/aamaksud) · **GitHub:** [abdullahalmaksud](https://github.com/abdullahalmaksud)
