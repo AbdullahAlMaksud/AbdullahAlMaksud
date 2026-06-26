@@ -1,63 +1,69 @@
-# Abdullah Al Maksud
+<p align="center">
+  <img src="./assets/cover.png" width="100%" alt="Abdullah Al Maksud — Cover" />
+</p>
 
-**React Native Developer · Frontend Engineer · AI Integrations**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalmaksud/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
-[![Slack](https://img.shields.io/badge/Slack-Message-4A154B?style=flat-square&logo=slack&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum%2C+welcome+to+my+profile+%F0%9F%91%8B;I'm+Abdullah+%E2%80%94+let's+build+something+great." alt="Typing SVG" />
+</p>
 
 ---
 
-## About
+<img align="right" src="https://github.com/user-attachments/assets/186083b1-ae36-48e9-adc5-45c2f265e971" width="120" style="border-radius:50%" alt="Abdullah Al Maksud"/>
 
-I build mobile and web applications with a focus on quality, clarity, and real-world utility.
+## Hey, I'm Abdullah 👋
 
-Professionally, I've worked on large-scale EdTech and booking platforms since 2025 — handling everything from feature development and localization to authentication architecture and app store deployment. I understand what it means to ship something that real users depend on.
+I'm a React Native developer with professional experience since 2025, working on large-scale mobile applications in the EdTech and booking space — the kind that real users rely on every day. I've been part of the full journey: building features, handling localization, setting up authentication, and taking apps through the store release process.
 
-On the web side, I'm deeply invested in the modern frontend ecosystem. Next.js, TypeScript, Tailwind, and shadcn/ui are my daily tools — and I've taken multiple projects from an empty repository to a live, production-deployed product. I care about the details: component structure, type safety, performance, and interfaces that feel intentional.
+Beyond mobile, I genuinely enjoy the frontend world. Next.js, TypeScript, Tailwind, and shadcn/ui are tools I reach for often, and I've taken multiple personal projects all the way from an empty repo to a live, deployed product. I pay close attention to how things look and feel — clean interfaces matter to me, not just clean code.
 
-UI quality is something I hold myself to. I've done design work when it was needed, and I know the difference between something that works and something that feels right.
+Lately, I've been exploring how AI APIs can be woven into products in ways that actually make a difference. I've shipped a few tools using Gemini and Claude APIs, and I'm still learning every day.
 
-Currently, I'm focused on building AI-powered tools that solve genuine problems — not demos, but products. I treat AI as a collaborator in my workflow: I use it to accelerate, then I review, refine, and own every line.
+Oh, and I studied Physics — Honours from National University, Bangladesh, followed by an M.Sc. from Jahangirnagar University. That background taught me how to think through problems before jumping to solutions, which turns out to be pretty useful in software too.
+
+<br clear="right"/>
 
 ---
 
 ## At a Glance
 
-- **React Native Developer** — Professional experience on large-scale mobile products (EdTech & Booking)
-- **Frontend Engineer** — Next.js, TypeScript, Tailwind CSS; from repo init to production deploy
-- **AI Explorer** — Building real-utility tools with Gemini & Claude APIs
-- **Architecture-minded** — Reusable components, clean code, best practices first
-- **UI-obsessed** — Design-aware developer who cares deeply about what users actually see and feel
-- **Physics background** — M.Sc. graduate; trained to think in systems, not just syntax
-- **Goal** — Become a high-impact engineer who ships things that matter
+- 📱 **React Native Developer** — Professional experience on large-scale mobile products (EdTech & Booking)
+- 🌐 **Frontend Engineer** — Next.js, TypeScript, Tailwind CSS; from repo init to production deploy
+- 🤖 **AI Explorer** — Building real-utility tools with Gemini & Claude APIs
+- 🧩 **Architecture-minded** — Reusable components, clean code, best practices first
+- 🎨 **UI-obsessed** — Design-aware developer who cares deeply about what users actually see and feel
+- 🔬 **Physics background** — B.Sc. (Hons) from National University & M.Sc. from Jahangirnagar University; trained to think in systems, not just syntax
+- 🎯 **Goal** — Become a high-impact engineer who ships things that matter
 
 ---
 
 ## Current Focus
 
-- AI Integration — Meaningful AI features in real user-facing products
-- Backend — Node.js, Express.js, Hono — deepening server-side fundamentals
-- Full Stack — Next.js + Supabase + REST APIs + MongoDB
+```text
+📱  React Native    ████████████░░░   Expo · NativeWind · i18next · Better Auth
+🌐  Web / Frontend  ██████████░░░░░   Next.js · TypeScript · Tailwind · shadcn/ui
+🤖  AI Integration  ████████░░░░░░░   Gemini API · Claude API · real-world use cases
+⚙️  Backend         ██████░░░░░░░░░   Node.js · Express.js · Hono · MongoDB
+```
 
 ---
 
 ## Tech Stack
 
-**Mobile**
-`React Native` `Expo` `NativeWind` `i18next` `Better Auth` `iOS & Android Deployment`
-
-**Web & Frontend**
-`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Supabase` `React`
-
-**Backend**
-`Node.js` `Express.js` `Hono` `MongoDB`
-
-**AI & Tools**
-`Gemini API` `Claude API` `Git` `VS Code`
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 ---
 
@@ -65,31 +71,46 @@ Currently, I'm focused on building AI-powered tools that solve genuine problems 
 
 **Master of Science in Physics**
 Jahangirnagar University, Savar, Dhaka
-*A foundation in analytical thinking, mathematical modeling, and approaching complex problems from first principles — habits that translate directly into how I architect and debug software.*
+*Sharpened my ability to model complex systems, think analytically under uncertainty, and approach problems from first principles — all of which quietly inform how I write and structure software.*
+
+**Bachelor of Science (Honours) in Physics**
+National University, Bangladesh
+*Where the habit of asking "why does this actually work?" began.*
 
 **Self-taught Software Engineer**
-*Parallel track alongside academic study — began with web fundamentals, progressed through the React ecosystem, and entered professional mobile development. Every project, from first commit to deployed product, has been a deliberate step in this direction.*
+*Running parallel to my academic years — starting from HTML and CSS curiosity, growing through the React ecosystem, and eventually stepping into professional mobile development. Every project has been a deliberate experiment.*
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmaksud&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=donut&hide_border=true&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmaksud&hide_border=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmaksud&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmaksud&layout=donut&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalmaksud&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalmaksud&theme=tokyonight" />
 </p>
 
 ---
 
-*Open to meaningful work and collaboration. Reach out through any of the links above.*
+## Let's Connect
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdullahalmaksud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=6E40C9&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%99%8C;Let's+build+something+meaningful+together." alt="Closing" />
+</p>
