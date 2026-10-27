@@ -1,14 +1,3 @@
-<!-- Dark/Light mode cover -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/cover-light.png">
-  <img src="./assets/cover-dark.png" width="100%"  style="border-radius: 20px;" height="280" alt="Abdullah Al Maksud" />
-</picture>
-
-<br/>
-
----
-
 <h3 align="center" style="font-size: 1rem; font-weight: bold; text-align: center; line-height: 1.0;">
   Assalamu Alaikum 👋
 </h3>
